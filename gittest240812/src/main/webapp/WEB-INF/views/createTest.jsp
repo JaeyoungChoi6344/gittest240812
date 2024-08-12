@@ -10,7 +10,11 @@
 </h1>
 
 <P>  Test jsp </P>
+<<<<<<< HEAD
 <h2> Git test </h2>
 <h2> Eclipse update</h2>
+
+<h2> Github test </h2>
+
 </body>
 </html>
